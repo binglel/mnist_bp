@@ -12,7 +12,8 @@ py3
 ```
 python train.py
 ```
-![train_loss](https://github.com/binglel/mnist_bp/blob/master/saved/train_loss.jpg)
+<div align=center><img src="https://github.com/binglel/mnist_bp/blob/master/saved/train_loss.jpg"/></div>
+
 or GUI
 ```
 python UI.py
