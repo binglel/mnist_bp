@@ -12,7 +12,7 @@ py3
 ```
 python train.py
 ```
-<div align=center><img src="https://github.com/binglel/mnist_bp/blob/master/saved/train_loss.jpg"/></div>
+<div align=center><img src="https://github.com/binglel/mnist_bp/blob/master/saved/train_loss.jpg" alt="training loss"/></div>
 
 or GUI
 ```
